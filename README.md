@@ -13,9 +13,13 @@ A modern React component for checking leap years with real-time validation, resp
 - **Modern UI**: Clean, card-based design with gradient background
 - **Accessibility**: Proper labels, ARIA attributes, and semantic HTML
 
-## 📸 Demo
+## 📸 Demo 1
 
 ![Leap Year Checker Demo](./Media/LeapYear.png)
+
+## 📸 Demo 2
+
+![Leap Year Checker Demo](./Media/NotLeapYear.png)
 
 ## 🚀 Installation
 
@@ -70,7 +74,6 @@ leap-year-checker/
 ├── public/
 │   ├── index.html
 │   ├── favicon.ico
-│   └── manifest.json
 ├── src/
 │   ├── components/
 │   │   └── LeapYear.js
@@ -110,11 +113,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Thanks to the React team for the amazing framework
-- Inspired by the need for educational programming tools
 - Built with accessibility and user experience in mind
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Your Name - A M Santina Appalo
 
 Project Link: [https://github.com/yourusername/leap-year-checker](https://github.com/yourusername/leap-year-checker)
