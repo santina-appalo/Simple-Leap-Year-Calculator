@@ -2,11 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-//import Todo from './React_Codes/Todo';
-//import RockAndScissor from './React_Codes/RockAndScissor';
-import LeapYear from './React_Codes/LeapYearCopy';
-//import EscapeRoomGame from './React_Codes/EscapeRoomGame';
-
+import LeapYear from './src/LeapYear';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
