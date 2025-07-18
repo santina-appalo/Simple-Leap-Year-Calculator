@@ -1,0 +1,29 @@
+/* Prod.css */
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    background-color: #f0f0f0; /* Change this to your desired background color */
+    padding: 20px;
+}
+
+.card {
+    border: solid 2px #ccc;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: white; /* Optional: change background color of individual cards */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: add a shadow for a nicer look */
+    padding: 10px;
+    text-align: center;
+}
+
+.card img {
+    width: 150px;
+}

@@ -1,0 +1,11 @@
+.wrapped-text {
+    word-wrap: break-word; /* Break long words to wrap to the next line */
+    white-space: pre-wrap; /* Ensure the text wraps to the next line */
+    width: 100%; /* Ensure the text element takes up full width for wrapping */
+  }
+  
+  .text-wrap {
+    flex: 1; /* Allow the text span to take up available space */
+    padding-right: 10px; /* Add some padding to avoid overlap with buttons */
+  }
+  

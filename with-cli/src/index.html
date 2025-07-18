@@ -1,0 +1,19 @@
+});
+
+// Trigger the appearance of 3D models when Ayurveda section scrolls out
+gsap.registerPlugin(ScrollTrigger);
+
+ScrollTrigger.create({
+    trigger: '#ayurveda-section',
+    start: "bottom bottom", // when Ayurveda section finishes
+    onEnter: () => {
+        gsap.to("#models-section", {
+            opacity: 1,
+            duration: 1
+        });
+    }
+});
+</script>
+
+</body>
+</html>
