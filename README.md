@@ -1,4 +1,4 @@
-# Simple Leap Year Checker
+# Simple Leap Year Calculator
 
 A modern React component for checking leap years with real-time validation, responsive design, and educational content.
 
@@ -13,11 +13,11 @@ A modern React component for checking leap years with real-time validation, resp
 - **Modern UI**: Clean, card-based design with gradient background
 - **Accessibility**: Proper labels, ARIA attributes, and semantic HTML
 
-## 📸 Demo 1
+## 📸 Demo 1 - Valid Year
 
 ![Leap Year Checker Demo](./Media/LeapYear.png)
 
-## 📸 Demo 2
+## 📸 Demo 2 - Invalid Year
 
 ![Leap Year Checker Demo](./Media/NotLeapYear.png)
 
@@ -117,6 +117,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - A M Santina Appalo
-
-Project Link: [https://github.com/yourusername/leap-year-checker](https://github.com/yourusername/leap-year-checker)
+A M Santina Appalo
+Project Link: [https://github.com/santina-appalo/Simple-Leap-Year-Calculator](https://github.com/santina-appalo/Simple-Leap-Year-Calculator)
