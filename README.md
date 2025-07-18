@@ -117,5 +117,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
--A M Santina Appalo
--Project Link: [https://github.com/santina-appalo/Simple-Leap-Year-Calculator](https://github.com/santina-appalo/Simple-Leap-Year-Calculator)
+A M Santina Appalo
+**Project Link:** [https://github.com/santina-appalo/Simple-Leap-Year-Calculator](https://github.com/santina-appalo/Simple-Leap-Year-Calculator)
